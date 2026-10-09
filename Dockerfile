@@ -2,7 +2,7 @@
 #  JinX X4G  |  3X-UI v2.9.4 for Railway
 #  In partnership with X4G
 # ============================================================
-FROM ghcr.io/mhsanaei/3x-ui:v2.9.4
+FROM ghcr.io/mhsanaei/3x-ui:v3.9.0
 
 ARG S6_OVERLAY_VERSION=3.2.0.2
 
